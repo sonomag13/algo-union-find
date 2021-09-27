@@ -32,10 +32,12 @@
  */
 
 #include <iostream>
+#include <map>
 #include <unordered_map>
 #include <vector>
 
 using namespace std; 
+
 class UnionFind {
     
 private:
